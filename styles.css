@@ -1,0 +1,50 @@
+div {
+    border: 1px solid black;
+ 
+}
+
+img {
+    width: 200px; 
+    border:8px solid blue;
+            
+}
+h1{
+    color:pink;
+    
+    display: flex;
+       justify-content:space-between;
+}   
+.menu{
+display: flex;
+       justify-content:space-between;
+    border:5px groove white;
+    color:#ff751a;
+} 
+h2{
+    color:#4dffa6;
+} 
+.friends{
+   color:#d580ff;
+     border:8px dotted white;
+     padding:100px;
+}
+body{  
+    background-color: black;
+    color:pink;
+     padding:100px;
+   
+}
+.posts{
+    color: #b3ffff;
+     padding:100px;
+}
+.aboutme{
+    justify-content: space-between ;
+     border:10px dotted white; 
+    padding:100px;
+}
+
+
+
+
+
